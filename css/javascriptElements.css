@@ -1,0 +1,91 @@
+.myPokemon {
+  height: 18em;
+  width: 18em;
+  position: relative;
+  top: 6em;
+  left: -4em;
+}
+
+.magikarpMove {
+  width: 7em;
+  font-size: 1.5em;
+  text-align: center;
+  color: white;
+  position: relative;
+  background-color: darkgreen;
+  top: 10em;
+  left: 9em;
+}
+
+#sectionChallenger {
+  position: relative;
+  top: -12em;
+  right: -6em;
+}
+
+#headingChallenger {
+  color: white;
+  position: relative;
+  top: -28em;
+  left: 25em;
+  padding: 0px;
+}
+#imgChallenger {
+  height: 15em;
+  width: 15em;
+  position: relative;
+  top: -44em;
+  left: 33em;
+}
+.movesChallenger {
+  height: 4em;
+  width: 4em;
+  color: white;
+  position: relative;
+  top: -45.5em;
+  right: -9em;
+  background-color: darkgreen;
+  text-align: center;
+  overflow-wrap: normal;
+}
+
+#sectionDefender {
+  position: relative;
+  top: -12em;
+  right: -6em;
+}
+
+#headingDefender {
+  color: white;
+  position: relative;
+  top: -36em;
+  left: 10em;
+  padding: 0px;
+}
+
+#imgDefender {
+  height: 15em;
+  width: 15em;
+  position: relative;
+  top: -56em;
+  left: 10em;
+}
+
+.movesDefender {
+  height: 4em;
+  width: 4em;
+  color: white;
+  position: relative;
+  top: -58em;
+  right: -6em;
+  background-color: darkgreen;
+  text-align: center;
+  overflow-wrap: normal;
+}
+
+.individualMoves {
+  width: 20em;
+  position: relative;
+  color: white;
+  font-size: 1em;
+}

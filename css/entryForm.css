@@ -1,0 +1,83 @@
+.row {
+  display: inline-block;
+  flex-direction: row;
+  align-content: space-evenly;
+  height: 300px;
+  width: 100vw;
+}
+
+#formChallenger {
+  height: 10em;
+  width: 18em;
+  position: absolute;
+  border: solid 2px black;
+  border-radius: 30px;
+  background-color: darkgreen;
+  text-align: center;
+  z-index: 1;
+  top: 24em;
+  left: 58em;
+}
+#formInfoChallenger {
+  position: relative;
+  top: -2em;
+}
+.challengerSearchEngine {
+  font-size: x-large;
+  position: relative;
+  top: 1em;
+  left: 0;
+  display: inline-block;
+}
+
+.entryChallenger {
+  position: relative;
+  color: white;
+  top: 0em;
+  left: 0em;
+  display: inline-block;
+}
+
+#submitChallenger {
+  position: relative;
+  top: -1em;
+}
+
+#formDefender {
+  height: 10em;
+  width: 20em;
+  position: absolute;
+  border: solid 2px black;
+  border-radius: 30px;
+  background-color: darkgreen;
+  text-align: center;
+  z-index: 1;
+  top: 5em;
+  left: 18em;
+}
+
+#formInfoDefender {
+  position: relative;
+  top: -1em;
+}
+
+.defenderSearchEngine {
+  font-size: x-large;
+  position: relative;
+  top: 1em;
+  left: 0;
+  display: inline-block;
+}
+
+.entryDefender {
+  position: relative;
+  color: white;
+  top: 1em;
+  left: 0em;
+  display: inline-block;
+}
+
+#submitDefender {
+  position: relative;
+  top: -2em;
+}

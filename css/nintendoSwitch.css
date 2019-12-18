@@ -1,0 +1,38 @@
+/* .nintendoSwitch {
+  src: ("../assets/nintendo-switch.png");
+}
+
+.battleStadium {
+  src: url("http://fc05.deviantart.net/fs71/f/2013/098/e/7/pokemon_x_y_battle_scene_by_jenske05-d5ynr9c.png");
+} */
+/* body {
+  background-image: url(../assets/nintendoSwitch3.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+/* .wrappper {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+} */
+.nintendoImage {
+  height: 80%;
+  width: 100%;
+  position: relative;
+  top: -150px;
+  left: -100px;
+}
+.nintendoSwitch {
+  height: 80vh;
+  width: 90vw;
+  position: relative;
+}
+
+.battleStadium {
+  height: 60vh;
+  width: 52vw;
+  position: relative;
+  top: -490px;
+  left: 240px;
+}
