@@ -17,16 +17,20 @@
   left: 9em;
 }
 
+#boxFour {
+  position: relative;
+}
+
 #sectionChallenger {
   position: relative;
-  top: -13em;
-  right: -5em;
+  top: 30em;
+  right: -6em;
 }
 
 #headingChallenger {
   color: white;
   position: relative;
-  top: -27.5em;
+  top: -25em;
   left: 25em;
   padding: 0px;
 }
@@ -34,7 +38,7 @@
   height: 15em;
   width: 15em;
   position: relative;
-  top: -44em;
+  top: -41em;
   left: 33em;
 }
 .movesChallenger {
@@ -42,23 +46,27 @@
   width: 4em;
   color: white;
   position: relative;
-  top: -44em;
-  right: -9em;
+  top: -42.5em;
+  right: -11em;
   background-color: darkgreen;
   text-align: center;
   overflow-wrap: normal;
 }
 
+#boxFive {
+  position: relative;
+}
+
 #sectionDefender {
   position: relative;
-  top: -12em;
+  top: 34em;
   right: -6em;
 }
 
 #headingDefender {
   color: white;
   position: relative;
-  top: -35em;
+  top: -36em;
   left: 10em;
   padding: 0px;
 }

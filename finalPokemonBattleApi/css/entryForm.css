@@ -5,27 +5,29 @@
   height: 300px;
   width: 100vw;
 }
-
+#boxThree {
+  position: relative;
+  top: -30em;
+}
 #formChallenger {
   height: 10em;
   width: 18em;
-  position: absolute;
+  position: relative;
   border: solid 2px black;
   border-radius: 30px;
   background-color: darkgreen;
   text-align: center;
-  z-index: 1;
-  top: 25em;
-  left: 58em;
+  top: 17.5em;
+  left: 54em;
 }
 #formInfoChallenger {
   position: relative;
-  top: -2em;
+  top: 0em;
 }
 .challengerSearchEngine {
   font-size: x-large;
   position: relative;
-  top: 1em;
+  top: 0em;
   left: 0;
   display: inline-block;
 }
@@ -33,14 +35,14 @@
 .entryChallenger {
   position: relative;
   color: white;
-  top: 0em;
+  top: -2em;
   left: 0em;
   display: inline-block;
 }
 
 #submitChallenger {
   position: relative;
-  top: -1em;
+  top: -4em;
 }
 
 #formDefender {
@@ -51,9 +53,8 @@
   border-radius: 30px;
   background-color: darkgreen;
   text-align: center;
-  z-index: 1;
-  top: 3em;
-  left: 18em;
+  top: -32em;
+  left: 14em;
 }
 
 #formInfoDefender {
@@ -64,7 +65,7 @@
 .defenderSearchEngine {
   font-size: x-large;
   position: relative;
-  top: 1em;
+  top: 0em;
   left: 0;
   display: inline-block;
 }
@@ -72,7 +73,7 @@
 .entryDefender {
   position: relative;
   color: white;
-  top: 1em;
+  top: -1em;
   left: 0em;
   display: inline-block;
 }
