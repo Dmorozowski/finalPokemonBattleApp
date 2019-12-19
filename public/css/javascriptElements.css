@@ -19,14 +19,14 @@
 
 #sectionChallenger {
   position: relative;
-  top: -12em;
-  right: -6em;
+  top: -13em;
+  right: -5em;
 }
 
 #headingChallenger {
   color: white;
   position: relative;
-  top: -28em;
+  top: -27.5em;
   left: 25em;
   padding: 0px;
 }
@@ -42,7 +42,7 @@
   width: 4em;
   color: white;
   position: relative;
-  top: -45.5em;
+  top: -44em;
   right: -9em;
   background-color: darkgreen;
   text-align: center;
@@ -58,7 +58,7 @@
 #headingDefender {
   color: white;
   position: relative;
-  top: -36em;
+  top: -35em;
   left: 10em;
   padding: 0px;
 }
